@@ -46,7 +46,7 @@ section {
     position: absolute;
     right: 0;
     top: 18rem;
-    width: 45rem;
+    width: 60rem;
     height: auto;
 }
 
@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#dorama .container {
     display: flex;
     align-items: center;
     justify-content: center;
